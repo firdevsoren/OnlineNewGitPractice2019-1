@@ -3,3 +3,8 @@ usa
 germany
 england
 italy
+japan
+egypt
+tailand
+
+
